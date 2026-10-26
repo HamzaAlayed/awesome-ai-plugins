@@ -109,7 +109,6 @@ Community-built plugins, native skills, MCP servers, and related agent extension
 ### Agent Skills
 
 Individually installable Agent Skills collections, rather than one client-specific plugin bundle.
--
 - [antirea](https://github.com/MockirDev/antirea) - A Claude Code skill to protect projects and dev workspaces against AI reverse engineering and instruction leaks.
 - [ART Prompt Framework](https://github.com/YourAKShaw/art-prompt-framework) - Agent skill that turns rough requests into structured, context-rich prompts using the Act As, Request, and Terms framework.
 - [Awesome QA Skills](https://github.com/naodeng/awesome-qa-skills) - Bilingual collection of 330 installable QA agent skills covering test workflows, test types, and skill engineering across the SDLC.
@@ -159,7 +158,6 @@ Individually installable Agent Skills collections, rather than one client-specif
 ### Development & Workflow
 
 <!-- pinned -->
--[Laravel Guild](https://github.com/HamzaAlayed/laravel-claude-agents) - A collection of 18 Laravel-specialized Claude Code subagents with workflow commands, skills, and guardrail hooks.
 - [geml](https://github.com/geml-spec/geml) - An agent-native markup language featuring deterministic block-level editing and built-in validation to ensure documents never drift or break during AI operations.
 - [2718lab DevKit](https://github.com/2718labs/2718lab-devkit) - Codex-first local MCP server and skill bundle for deterministic project intelligence, durable workflow orchestration, and reusable engineering tools.
 - [A Team](https://github.com/RBraga01/a-team) - Universal multi-agent infrastructure with 25 specialist agents, 16 enforced workflow skills, and a lead orchestrator for Claude Code, Codex CLI, Cursor, and OpenCode.
@@ -438,6 +436,7 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [KOZMOS](https://github.com/ersinkoc/claude-mods) - 48 live, visual function-hook mods for Claude Code in the terminal and desktop app: animated bands above the prompt, sidebars, a status ticker, companions, guards, and sound for usage limits, context, subagents, git, and cost.
 - [Krypton](https://github.com/jturntdev/krypton) - Goal-based planning and proof gate for Codex and Claude Code that turns requests into ownership, cutover, review-gate, and acceptance-evidence plans.
 - [Labtasker](https://github.com/luocfprime/labtasker) - Queue and run independent ML inference, evaluation, and experiment tasks across long-lived Python or command workers with a Claude Code plugin and cross-agent skill.
+- [Laravel Guild](https://github.com/HamzaAlayed/laravel-claude-agents) - A collection of 18 Laravel-specialized Claude Code subagents with workflow commands, skills, and guardrail hooks.
 - [LaTeX Inline](https://github.com/dazebug/latex-inline) - Typesets the LaTeX math in Claude Code replies inline with the text, as pictures in Ghostty, cmux and kitty and as Unicode text in other terminals.
 - [lattice](https://github.com/techygarg/lattice) - Composable AI skills framework that infuses clean code, clean architecture, domain-driven design, secure coding, and proper testing into the workflow by default, with scenario-driven guides for getting started, customization, and team use.
 - [LGTMgate](https://github.com/Zigzag968/claude-code-lgtmgate) - Claude Code plugin that runs one Workflow per issue in its own git worktree, taking a GitHub issue to a reviewed PR with Theo, Sam, Nick and Morgan agents, and ticking each acceptance criterion only with cited evidence.
